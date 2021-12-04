@@ -1,0 +1,7 @@
+Le but de ce projet est de créer un jeu d'échecs en langage Python
+
+Un jeu d'échecs est composé des éléments suivants :
+* Echiquier 8 x 8 (64) cases
+* 32 pièces
+* Pièces : Pion, Tour, Chavalier, Fou, Dame, Roi
+* Les pièces sont reparties entre 2 couleurs : blanc et noir
